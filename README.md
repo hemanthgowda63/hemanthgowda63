@@ -1,113 +1,93 @@
 <div align="center">
 
-# ⚡ HEY, I'M HEMANTH GOWDA
+# 👋 HEY, I'M HEMANTH GOWDA
 
-### `CSE Student` • `Cloud & DevOps` • `AI/ML` • `Problem Solver`
+### 💻 Computer Science Engineering Student | ☁️ Cloud & DevOps | 🤖 AI/ML
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+things+that+actually+work+%F0%9F%9A%80;Learning+AWS+%7C+Docker+%7C+Kubernetes+%E2%98%81%EF%B8%8F;Turning+ideas+into+real+projects+%F0%9F%92%A1;Java+%7C+Python+%7C+JavaScript+%7C+Cloud;Future+Cloud+%26+DevOps+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+projects+%F0%9F%9A%80;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Exploring+AI%2FML+%F0%9F%A4%96;Solving+problems+with+code+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/hemanthgowda63">
-<img src="https://img.shields.io/github/followers/hemanthgowda63?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/hemanthgowda63?tab=repositories">
-<img src="https://img.shields.io/github/stars/hemanthgowda63?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
-</a>
-
 <a href="https://hemanthgowda.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="mailto:hemanthgowda3464@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-## 🧠 `whoami`
+## 👨‍💻 About Me
 
-```bash
-$ whoami
+🎓 Computer Science Engineering student at **Malnad College of Engineering, Hassan**
 
-> Hemanth Gowda
+☁️ Exploring **AWS, Cloud Infrastructure & DevOps**
 
-$ cat mission.txt
+💻 Practicing **Data Structures & Algorithms with Java**
 
-Building.
-Breaking.
-Debugging.
-Learning.
-Deploying.
-Repeating. 🚀
-```
+🤖 Interested in **AI/ML and Computer Vision**
 
-I'm a **Computer Science Engineering student** passionate about building practical software and exploring **Cloud, DevOps, AI/ML and backend systems**.
-
-I'm currently focusing on turning what I learn into **real projects, experiments and deployable applications**.
+🔨 Building practical projects to turn ideas into working solutions.
 
 ---
 
-# ⚡ TECH ARSENAL
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,php&perline=7" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,php&perline=7"/>
 
 ### 🌐 Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi&perline=5" alt="Development Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi&perline=5"/>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&perline=6" alt="Cloud and DevOps"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&perline=6"/>
 
 ### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode&perline=3" alt="Databases and Tools"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode&perline=3"/>
 
 </div>
 
 ---
 
-# 🚀 PROJECT LAB
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### ☁️ CloudLaunch
 
-**Self-Service Deployment Platform**
-
-A learning-focused Cloud & DevOps project exploring how applications can be deployed and managed using modern cloud infrastructure.
-
-`AWS` `Docker` `Kubernetes` `CI/CD`
+Self-Service Deployment Platform exploring **AWS, Docker, Kubernetes and DevOps automation**.
 
 </td>
+
+<td width="50%">
+
+### 🌾 KrishiMitra
+
+AgriTech platform providing farmers with **weather, crop disease, agricultural prices and other useful services**.
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
 ### 🔔 Smart Notification Prioritizer
 
-A system designed to analyze notifications and emails and assign priority so important information gets attention first.
-
-`Python` `FastAPI` `MongoDB` `Twilio`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌾 KrishiMitra
-
-**AgriTech Platform**
-
-A platform bringing useful agricultural services together for farmers.
-
-`Django` `Python` `JavaScript` `APIs`
+System that analyzes notifications and emails and **prioritizes important information**.
 
 </td>
 
@@ -115,114 +95,20 @@ A platform bringing useful agricultural services together for farmers.
 
 ### 🎨 Ophelia AI
 
-**Artisan Marketplace Concept**
-
-A platform concept designed to help artisans showcase their products and reach wider markets.
-
-`AI` `Web` `Marketplace`
+Platform concept designed to help **artisans showcase their products and reach wider markets**.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# ☁️ CLOUD JOURNEY
-
-```text
-                     ┌─────────────────┐
-                     │    SOFTWARE     │
-                     └────────┬────────┘
-                              ↓
-                     ┌─────────────────┐
-                     │      AWS ☁️     │
-                     └────────┬────────┘
-                              ↓
-                     ┌─────────────────┐
-                     │   DOCKER 🐳     │
-                     └────────┬────────┘
-                              ↓
-                     ┌─────────────────┐
-                     │ KUBERNETES ☸️   │
-                     └────────┬────────┘
-                              ↓
-                     ┌─────────────────┐
-                     │    CI / CD 🔄   │
-                     └────────┬────────┘
-                              ↓
-                     ┌─────────────────┐
-                     │ CLOUD-NATIVE 🚀 │
-                     └─────────────────┘
-```
-
----
-
-# 🧪 CURRENTLY EXPLORING
+## 📊 GitHub Stats
 
 <div align="center">
 
-|        🔬 Area       | ⚡ Focus                            |
-| :------------------: | :--------------------------------- |
-|      ☁️ **AWS**      | EC2 • S3 • IAM • Systems Manager   |
-|   🐳 **Containers**  | Docker                             |
-| ☸️ **Orchestration** | Kubernetes                         |
-|   🔄 **Automation**  | CI/CD                              |
-|      💻 **DSA**      | Java                               |
-|     🤖 **AI/ML**     | Machine Learning • Computer Vision |
-|  🌐 **Development**  | React • FastAPI • Django           |
-
-</div>
-
----
-
-# 🎯 2026 → 2027
-
-```text
-        FOUNDATION
-             │
-             ▼
-      ┌──────────────┐
-      │ Java + DSA   │
-      └──────┬───────┘
-             │
-             ▼
-      ┌──────────────┐
-      │ Web / Backend│
-      └──────┬───────┘
-             │
-             ▼
-      ┌──────────────┐
-      │     AWS ☁️   │
-      └──────┬───────┘
-             │
-             ▼
-      ┌──────────────┐
-      │ Docker 🐳    │
-      └──────┬───────┘
-             │
-             ▼
-      ┌──────────────┐
-      │ Kubernetes ☸️│
-      └──────┬───────┘
-             │
-             ▼
-      ┌──────────────┐
-      │ DevOps ⚙️    │
-      └──────┬───────┘
-             │
-             ▼
-      ┌──────────────────┐
-      │ Cloud Projects 🚀│
-      └──────────────────┘
-```
-
----
-
-# 📊 GITHUB // SYSTEM STATUS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemanthgowda63&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Hemanth's GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemanthgowda63&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthgowda63&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
@@ -230,76 +116,40 @@ A platform concept designed to help artisans showcase their products and reach w
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hemanthgowda63&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=hemanthgowda63&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 📈 DEVELOPMENT ACTIVITY
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthgowda63&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<img src="https://raw.githubusercontent.com/hemanthgowda63/hemanthgowda63/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🧩 MY DEVELOPER LOOP
-
-```text
-        ┌──────────────┐
-        │   IDEA 💡    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   BUILD 🔨   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   BREAK 💥   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │  DEBUG 🐛    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   LEARN 📚   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │  DEPLOY 🚀   │
-        └──────┬───────┘
-               │
-               └──────────→ REPEAT 🔁
-```
-
----
-
-# 🌐 LET'S CONNECT
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://hemanthgowda.vercel.app">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hemanth-gowda-a4a7592a2/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:hemanthgowda3464@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/hemanthgowda63">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -308,14 +158,8 @@ A platform concept designed to help artisans showcase their products and reach w
 
 <div align="center">
 
-### ⚡ `BUILD → LEARN → BREAK → FIX → DEPLOY`
-
-<br>
+### ⚡ BUILD • LEARN • CREATE • REPEAT
 
 <img src="https://komarev.com/ghpvc/?username=hemanthgowda63&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br><br>
-
-⭐ **Thanks for visiting my profile!**
 
 </div>
