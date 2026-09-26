@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge"/>
 </a>
 
-<a href="mailto:hemanthgowda3464@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/hemanth-gowda-a4a7592a2/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -126,16 +126,6 @@ Platform concept designed to help **artisans showcase their products and reach w
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hemanthgowda63/hemanthgowda63/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -148,9 +138,9 @@ Platform concept designed to help **artisans showcase their products and reach w
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:hemanthgowda3464@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<br><br>
+
+📧 **Email:** <a href="mailto:hemanthgowda3464@gmail.com">[hemanthgowda3464@gmail.com](mailto:hemanthgowda3464@gmail.com)</a>
 
 </div>
 
