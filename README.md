@@ -140,7 +140,7 @@ Platform concept designed to help **artisans showcase their products and reach w
 
 <br><br>
 
-📧 **Email:** <a href="mailto:hemanthgowda3464@gmail.com">[hemanthgowda3464@gmail.com](mailto:hemanthgowda3464@gmail.com)</a>
+📧 **Email:** <a href="mailto:hemanthgowda3464@gmail.com">[hemanthgowda.me@gmail.com](mailto:hemanthgowda3464@gmail.com)</a>
 
 </div>
 
